@@ -11,12 +11,13 @@ body{
     display: flex;
     padding: 20px 0;          
     margin: 40px auto;        
-    max-width: 1200px; 
+    max-width: 1300px; 
     width: 100%;
     flex-wrap: wrap;
     position:sticky;
     top: 0;
     z-index: 1;
+    border: soldid 2px black;
 }
 .navbar__n1 {
     display: flex;
