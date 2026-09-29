@@ -97,6 +97,7 @@ border: 1px solid black;
 border-radius: 40px;
 background-color: white;
 gap: 15px;
+    
 
 }
 .search__s input{
@@ -211,6 +212,7 @@ cursor: pointer;
     display: flex;
     gap: 20px;
     width: 100%;
+    flex-wrap: wrap;
 }
 
 .course-card {
@@ -245,6 +247,7 @@ cursor: pointer;
     max-width: 1200px;             
     margin: 40px auto;
     box-sizing: border-box;
+    flex-wrap: wrap;
 }
 
 .explore__container {
